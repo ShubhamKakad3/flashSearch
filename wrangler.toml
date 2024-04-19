@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date ="2024-04-19"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN="AZQ0ASQgNTYzZGM0OGQtOGM3NC00YmNkLWFmODQtMzYxMGRkYTY5MzJjNzdkYWNjZDNiZjY4NGZkYjhmNmE5M2YxYzY5OWE0NDU="
+UPSTASH_REDIS_REST_URL="https://us1-picked-bluebird-37940.upstash.io"
